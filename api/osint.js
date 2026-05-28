@@ -2,7 +2,6 @@ export default async function handler(req, res) {
 
   // API KEY
   const API_KEY = "demo";
-  const API_KEY = "No paid only free team";
 
   // GET PARAMS
   const { name, key } = req.query;
